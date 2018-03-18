@@ -1,0 +1,25 @@
+{
+  "name": "mysql-node-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mondo114/MySQL-Node-HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mondo114/MySQL-Node-HW/issues"
+  },
+  "homepage": "https://github.com/Mondo114/MySQL-Node-HW#readme"
+}
